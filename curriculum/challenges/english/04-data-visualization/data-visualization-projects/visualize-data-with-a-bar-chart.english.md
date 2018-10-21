@@ -7,7 +7,7 @@ challengeType: 3
 
 ## Description
 <section id='description'>
-<strong>Objective:</strong> Build a <a href='https://codepen.io' target='_blank'>CodePen.io</a> app that is functionally similar to this: <a href='https://codepen.io/freeCodeCamp/full/GrZVaM' target='_blank'>https://codepen.io/freeCodeCamp/full/GrZVaM</a>.
+  <strong><u>Objective</u>:</strong> Build a <a href='https://codepen.io' target='_blank'>CodePen.io</a> app that is functionally similar to this: <a href='https://codepen.io/freeCodeCamp/full/GrZVaM' target='_blank'>https://codepen.io/freeCodeCamp/full/GrZVaM</a>.
 Fulfill the below <a href='https://en.wikipedia.org/wiki/User_story' target='_blank'>user stories</a> and get all of the tests to pass. Give it your own personal style.
 You can use HTML, JavaScript, CSS, and the D3 svg-based visualization library. The tests require axes to be generated using the D3 axis property, which automatically generates ticks along the axis. These ticks are required for passing the D3 tests because their positions are used to determine alignment of graphed elements. You will find information about generating axes at <a href='https://github.com/d3/d3/blob/master/API.md#axes-d3-axis' target='_blank'>https://github.com/d3/d3/blob/master/API.md#axes-d3-axis</a>. Required (non-virtual) DOM elements are queried on the moment of each test. If you use a frontend framework (like Vue for example), the test results may be inaccurate for dynamic content. We hope to accommodate them eventually, but these frameworks are not currently supported for D3 projects.
 <strong>User Story #1:</strong> My chart should have a title with a corresponding <code>id="title"</code>.
